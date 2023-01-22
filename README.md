@@ -13,4 +13,4 @@ Code for diploma thesis Automatic selection of articles for a personalized e-cat
 ## Program
 
 - ecatalog_system - creation of a personalized e-catalog
-- data_midfy - to limit the entries used dataset
+- data_modify - to limit the entries of used dataset
